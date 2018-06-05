@@ -1,1 +1,3 @@
-# L_gislab
+# GIS Lab
+
+Place for documenting GIS related stuff.
